@@ -1,10 +1,4 @@
 {
-    "build": {
-        "@saveall": true
-    },
-    "instance": {
-        "@automaticShutdown": "30"
-    },
     "language": {
         "tern_defs": {
             "json()": {
@@ -21,7 +15,6 @@
         }
     },
     "run": {
-        "@runner": "Python 3",
         "configs": {
             "@inited": "true",
             "json()": {}
